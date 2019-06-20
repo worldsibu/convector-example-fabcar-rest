@@ -1,0 +1,39 @@
+Server started in port8000
+Context path with cryptographic materials exists
+Error post FabcarController_init SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at FabricControllerAdapter.<anonymous> (/Users/diestrin/Documents/Research/fabcar/node_modules/@worldsibu/convector-common-fabric-helper/src/client.helper.ts:198:25)
+    at step (/Users/diestrin/Documents/Research/fabcar/node_modules/tslib/tslib.js:136:27)
+    at Object.next (/Users/diestrin/Documents/Research/fabcar/node_modules/tslib/tslib.js:117:57)
+    at fulfilled (/Users/diestrin/Documents/Research/fabcar/node_modules/tslib/tslib.js:107:62)
+    at <anonymous>
+Error post FabcarController_init SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at FabricControllerAdapter.<anonymous> (/Users/diestrin/Documents/Research/fabcar/node_modules/@worldsibu/convector-common-fabric-helper/src/client.helper.ts:198:25)
+    at step (/Users/diestrin/Documents/Research/fabcar/node_modules/tslib/tslib.js:136:27)
+    at Object.next (/Users/diestrin/Documents/Research/fabcar/node_modules/tslib/tslib.js:117:57)
+    at fulfilled (/Users/diestrin/Documents/Research/fabcar/node_modules/tslib/tslib.js:107:62)
+    at <anonymous>
+Error post FabcarController_init SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at FabricControllerAdapter.<anonymous> (/Users/diestrin/Documents/Research/fabcar/node_modules/@worldsibu/convector-common-fabric-helper/src/client.helper.ts:198:25)
+    at step (/Users/diestrin/Documents/Research/fabcar/node_modules/tslib/tslib.js:136:27)
+    at Object.next (/Users/diestrin/Documents/Research/fabcar/node_modules/tslib/tslib.js:117:57)
+    at fulfilled (/Users/diestrin/Documents/Research/fabcar/node_modules/tslib/tslib.js:107:62)
+    at <anonymous>
+Error post FabcarController_init SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at FabricControllerAdapter.<anonymous> (/Users/diestrin/Documents/Research/fabcar/node_modules/@worldsibu/convector-common-fabric-helper/src/client.helper.ts:198:25)
+    at step (/Users/diestrin/Documents/Research/fabcar/node_modules/tslib/tslib.js:136:27)
+    at Object.next (/Users/diestrin/Documents/Research/fabcar/node_modules/tslib/tslib.js:117:57)
+    at fulfilled (/Users/diestrin/Documents/Research/fabcar/node_modules/tslib/tslib.js:107:62)
+    at <anonymous>
+Server started in port8000
+Context path with cryptographic materials exists
+Error post FabcarController_init SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at FabricControllerAdapter.<anonymous> (/Users/diestrin/Documents/Research/fabcar/node_modules/@worldsibu/convector-common-fabric-helper/src/client.helper.ts:198:25)
+    at step (/Users/diestrin/Documents/Research/fabcar/node_modules/tslib/tslib.js:136:27)
+    at Object.next (/Users/diestrin/Documents/Research/fabcar/node_modules/tslib/tslib.js:117:57)
+    at fulfilled (/Users/diestrin/Documents/Research/fabcar/node_modules/tslib/tslib.js:107:62)
+    at <anonymous>

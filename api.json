@@ -1,0 +1,27 @@
+[
+    {
+        "function": "init",
+        "verb": "post",
+        "controller": "FabcarController"
+    },
+    {
+        "function":"query",
+        "verb":"get",
+        "controller": "FabcarController"
+    },
+    {
+        "function":"queryAll",
+        "verb":"get",
+        "controller": "FabcarController"
+    },
+    {
+        "function":"create",
+        "verb":"post",
+        "controller": "FabcarController"
+    },
+    {
+        "function":"changeOwner",
+        "verb":"post",
+        "controller": "FabcarController"
+    }
+ ]

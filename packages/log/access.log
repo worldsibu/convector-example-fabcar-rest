@@ -37,3 +37,7 @@ Error post FabcarController_init SyntaxError: Unexpected end of JSON input
     at Object.next (/Users/diestrin/Documents/Research/fabcar/node_modules/tslib/tslib.js:117:57)
     at fulfilled (/Users/diestrin/Documents/Research/fabcar/node_modules/tslib/tslib.js:107:62)
     at <anonymous>
+Server started in port8000
+Context path with cryptographic materials exists
+Server started in port8000
+Context path with cryptographic materials exists

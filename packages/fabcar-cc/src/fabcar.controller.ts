@@ -30,7 +30,7 @@ export class FabcarController extends ConvectorController<ChaincodeTx> {
       mockData.map(car => car.save()));
   }
   @Invokable()
-  public async query(@Param(yup.string()) id: string): Promise<Fabcar> {
+  public async queryOne(@Param(yup.string()) id: string): Promise<Fabcar> {
     return Fabcar.getOne(id);
   }
   @Invokable()

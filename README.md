@@ -1,20 +1,49 @@
 # fabcar - fabcar
 
-This awesome project was created automatically with <a href="https://github.com/worldsibu/convector-cli" target="_blank">Convector CLI</a>.
-By default new Convector projects locally include <a href="https://github.com/worldsibu/hurley">Hurley</a> to manage your development environment seamlessly, so you don't have to worry about setting up the network and hard ways to install  and upgrade your chaincodes.
-
 ## Start
 
-```
+```bash
 # Install dependencies - From the root of your project
 npm i
-# Create a new development blockchain network  - From the root of your project
-npm run env:restart
-# Install your smart contract
-npm run cc:start -- fabcar
-# Make a testing call to create a record in the ledger
-# Beware that the first call may fail with a timeout! Just happens the first time
-hurl invoke fabcar fabcar_create "{\"name\":\"my first request\",\"id\":\"0001\",\"created\":0,\"modified\":0}"
+
+npm run start
+```
+
+## REST Server
+
+Generate and regenerate the REST Server with `conv-rest-api`.
+
+```bash
+npm i -g @worldsibu/conv-rest-api
+
+# [re]generate the REST server from the api.json file
+conv-rest-api generate api -c fabcar -f ./org1.fabcar.config.json
+
+# Start the rest server (remove "npx" if you don't use it)
+npx lerna run start --scope server --stream
+
+POST http://localhost:8000/fabcar/init
+```
+
+### Make web requests
+
+You can either use CURL if available or a tool like [Postman](https://www.getpostman.com/).
+
+#### With CURL
+
+```bash
+curl http://localhost:8000/fabcar/init -H "Content-Type: application/json" --request POST
+
+curl http://localhost:8000/fabcar/queryAll -H "Content-Type: application/json" --request GET
+
+curl http://localhost:8000/fabcar/queryOne/1 -H "Content-Type: application/json" --request GET
+```
+
+#### With Postman
+```bash
+POST http://localhost:8000/fabcar/init
+GET http://localhost:8000/fabcar/queryAll
+GET http://localhost:8000/fabcar/queryOne/1
 ```
 
 ## About Hurley

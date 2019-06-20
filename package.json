@@ -6,6 +6,7 @@
     "dist/*"
   ],
   "scripts": {
+    "start": "f() { npm run env:restart; npm run cc:start -- fabcar; }; f",
     "install": "npm-run-all -s lerna:install",
     "build": "node ./update-paths.js",
     "env:restart": "hurl new",

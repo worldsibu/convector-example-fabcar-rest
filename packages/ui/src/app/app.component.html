@@ -1,0 +1,38 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<div style="text-align:center">
+  <h1>
+    Fabcar example with Convector!
+  </h1>
+</div>
+<h2>Cars: <button (click)="init()">Init</button></h2>
+<ul>
+  <li *ngFor="let car of cars">
+    {{ car.make }} {{ car.model }} ({{ car.colour }}) - Owned by {{ car.owner }}
+  </li>
+</ul>
+<hr>
+<h2>Create car</h2>
+<form (submit)="create()">
+  <label for="id">
+    ID:
+    <input type="text" name="id" [(ngModel)]="newCar.id">
+  </label>
+  <label for="make">
+    Make:
+    <input type="text" name="make" [(ngModel)]="newCar.make">
+  </label>
+  <label for="model">
+    Model:
+    <input type="text" name="model" [(ngModel)]="newCar.model">
+  </label>
+  <label for="colour">
+    Colour:
+    <input type="text" name="colour" [(ngModel)]="newCar.colour">
+  </label>
+  <label for="owner">
+    Owner:
+    <input type="text" name="owner" [(ngModel)]="newCar.owner">
+  </label>
+  <input type="submit" value="Save">
+</form>
+

@@ -5,12 +5,12 @@
         "controller": "FabcarController"
     },
     {
-        "function":"query",
+        "function":"get",
         "verb":"get",
         "controller": "FabcarController"
     },
     {
-        "function":"queryAll",
+        "function":"getAll",
         "verb":"get",
         "controller": "FabcarController"
     },

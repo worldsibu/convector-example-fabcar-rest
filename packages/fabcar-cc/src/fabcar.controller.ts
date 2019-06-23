@@ -1,5 +1,4 @@
 import * as yup from 'yup';
-import { ChaincodeTx } from '@worldsibu/convector-platform-fabric';
 import {
   Controller,
   ConvectorController,
@@ -10,7 +9,7 @@ import {
 import { Fabcar } from './fabcar.model';
 
 @Controller('fabcar')
-export class FabcarController extends ConvectorController<ChaincodeTx> {
+export class FabcarController extends ConvectorController<any> {
   @Invokable()
   public async init(
   ) {
@@ -30,11 +29,11 @@ export class FabcarController extends ConvectorController<ChaincodeTx> {
       mockData.map(car => car.save()));
   }
   @Invokable()
-  public async query(@Param(yup.string()) id: string): Promise<Fabcar> {
+  public async get(@Param(yup.string()) id: string): Promise<Fabcar> {
     return Fabcar.getOne(id);
   }
   @Invokable()
-  public async queryAll(): Promise<Fabcar[]> {
+  public async getAll(): Promise<Fabcar[]> {
     return Fabcar.getAll();
   }
 

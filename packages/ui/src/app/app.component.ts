@@ -1,6 +1,7 @@
-import { Component } from '@angular/core';
-import { FabcarService } from './fabcar.service';
-import { Fabcar } from 'fabcar-cc';
+import { Component, Inject } from '@angular/core';
+// import { FabcarService } from './fabcar.service';
+import { FabcarController, Fabcar } from 'fabcar-cc';
+import { ConvectorControllerClient } from '@worldsibu/convector-core';
 
 @Component({
   selector: 'app-root',
@@ -12,21 +13,24 @@ export class AppComponent {
 
   newCar = new Fabcar();
 
-  constructor(private fabcar: FabcarService) {
+  constructor(
+    @Inject(FabcarController)
+    private fabcar: ConvectorControllerClient<FabcarController>
+  ) {
     this.load();
   }
 
   async load() {
-    this.cars = await this.fabcar.fabcarCtrl.getAll();
+    this.cars = await this.fabcar.getAll();
   }
 
   async init() {
-    await this.fabcar.fabcarCtrl.init();
+    await this.fabcar.init();
     await this.load();
   }
 
   async create() {
-    await this.fabcar.fabcarCtrl.create(this.newCar);
+    await this.fabcar.create(this.newCar);
     this.newCar = new Fabcar();
     await this.load();
   }

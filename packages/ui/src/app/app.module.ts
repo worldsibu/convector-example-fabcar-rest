@@ -22,31 +22,32 @@ import { AppComponent } from './app.component';
       url: 'http://localhost:8000',
       routes: [
         {
-          "function": "init",
-          "verb": "post",
-          "controller": "fabcar"
+            "function": "init",
+            "verb": "post",
+            "controller": "fabcar"
         },
         {
-          "function":"get",
-          "verb":"get",
-          "controller": "fabcar"
+            "function":"get",
+            "verb":"get",
+            "controller": "fabcar",
+            "params": ["id"]
         },
         {
-          "function":"getAll",
-          "verb":"get",
-          "controller": "fabcar"
+            "function":"getAll",
+            "verb":"get",
+            "controller": "fabcar"
         },
         {
-          "function":"create",
-          "verb":"post",
-          "controller": "fabcar",
-          "params": ["car"]
+            "function":"create",
+            "verb":"post",
+            "controller": "fabcar",
+            "params": ["car"]
         },
         {
-          "function":"changeOwner",
-          "verb":"post",
-          "controller": "fabcar",
-          "params": ["id","owner"]
+            "function":"changeOwner",
+            "verb":"post",
+            "controller": "fabcar",
+            "params": ["id","owner"]
         }
       ]
     }),

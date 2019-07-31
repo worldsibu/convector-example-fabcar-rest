@@ -1,6 +1,5 @@
 import { Request, Response } from 'express';
 import { FabcarControllerBackEnd } from '../convector';
-import { Fabcar } from 'fabcar-cc';
 
 
 export async function FabcarController_init(req: Request, res: Response): Promise<void>{
@@ -29,7 +28,7 @@ export async function FabcarController_getAll(req: Request, res: Response): Prom
     try{
         let params = req.params;
         res.status(200).send(await FabcarControllerBackEnd
-            .getAll().then(cars => cars.map(car => new Fabcar(car).toJSON())));
+            .getAll());
         
     } catch(ex) {
         console.log('Error get FabcarController_getAll', ex.stack);

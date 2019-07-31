@@ -1,24 +1,6 @@
-Debugger listening on ws://0.0.0.0:8888/067309e2-5eb0-49a7-9f9e-d29d7e8e7c3e
+Debugger listening on ws://0.0.0.0:8888/8e59a9e0-9d0c-4920-aa14-e0a6acd4c232
 For help see https://nodejs.org/en/docs/inspector
-Debugger attached.
-Debugger listening on ws://0.0.0.0:8888/c9b311b4-d767-42b3-80ab-bce0ef5dd8de
-For help see https://nodejs.org/en/docs/inspector
-Debugger attached.
-Debugger listening on ws://0.0.0.0:8888/1e969594-e03d-41a8-8f83-27c46e5a3be9
-For help see https://nodejs.org/en/docs/inspector
-Debugger listening on ws://0.0.0.0:8888/ab87688d-e1f8-499f-a8c3-74c717ef9627
-For help see https://nodejs.org/en/docs/inspector
-Debugger listening on ws://0.0.0.0:8888/5ef29e3c-259a-47ba-8a6b-2c4228c4aa98
-For help see https://nodejs.org/en/docs/inspector
-Debugger listening on ws://0.0.0.0:8888/9a365ff3-3a46-4bcf-920d-41a33f657091
-For help see https://nodejs.org/en/docs/inspector
-Debugger listening on ws://0.0.0.0:8888/9dbda6ee-ee77-4848-83b8-42686824129d
-For help see https://nodejs.org/en/docs/inspector
-Debugger listening on ws://0.0.0.0:8888/7497939a-070f-4090-8d12-40b8065d5301
-For help see https://nodejs.org/en/docs/inspector
-Debugger listening on ws://0.0.0.0:8888/d6869458-d839-4d58-82eb-36ba3bbfba32
-For help see https://nodejs.org/en/docs/inspector
-Debugger listening on ws://0.0.0.0:8888/41d96b96-f1af-4094-9211-3c9ba1901be6
+Debugger listening on ws://0.0.0.0:8888/ac5ae4b7-ffb7-4598-8798-b5e56e5d12d3
 For help see https://nodejs.org/en/docs/inspector
 { Error: Cannot find module '/Users/diestrin/Documents/Research/fabcar/packages/server/dist/app.js'
     at Function.Module._resolveFilename (module.js:547:15)
@@ -31,7 +13,7 @@ For help see https://nodejs.org/en/docs/inspector
     at Function.Module._load (module.js:497:3)
     at Function.Module.runMain (module.js:693:10)
     at startup (bootstrap_node.js:188:16) code: 'MODULE_NOT_FOUND' }
-Debugger listening on ws://0.0.0.0:8888/f80db5b4-1afd-454d-a9f5-e34862e4149c
+Debugger listening on ws://0.0.0.0:8888/d7ea18f1-e490-4ad3-8efb-db970eeb4577
 For help see https://nodejs.org/en/docs/inspector
 { Error: Cannot find module '/Users/diestrin/Documents/Research/fabcar/packages/server/dist/app.js'
     at Function.Module._resolveFilename (module.js:547:15)
@@ -44,7 +26,7 @@ For help see https://nodejs.org/en/docs/inspector
     at Function.Module._load (module.js:497:3)
     at Function.Module.runMain (module.js:693:10)
     at startup (bootstrap_node.js:188:16) code: 'MODULE_NOT_FOUND' }
-Debugger listening on ws://0.0.0.0:8888/bf9f21a5-9c80-4d39-8423-f0845bfb939d
+Debugger listening on ws://0.0.0.0:8888/8f348fd6-b8a7-4b61-b927-c51287780c59
 For help see https://nodejs.org/en/docs/inspector
 { Error: Cannot find module '/Users/diestrin/Documents/Research/fabcar/packages/server/dist/app.js'
     at Function.Module._resolveFilename (module.js:547:15)
@@ -57,7 +39,7 @@ For help see https://nodejs.org/en/docs/inspector
     at Function.Module._load (module.js:497:3)
     at Function.Module.runMain (module.js:693:10)
     at startup (bootstrap_node.js:188:16) code: 'MODULE_NOT_FOUND' }
-Debugger listening on ws://0.0.0.0:8888/a53c1e96-55af-48fd-acc8-7d34034179bb
+Debugger listening on ws://0.0.0.0:8888/f1c5f15d-60b2-44c5-bcde-a8e4fd7fb2f4
 For help see https://nodejs.org/en/docs/inspector
 { Error: Cannot find module '/Users/diestrin/Documents/Research/fabcar/packages/server/dist/app.js'
     at Function.Module._resolveFilename (module.js:547:15)
@@ -70,7 +52,7 @@ For help see https://nodejs.org/en/docs/inspector
     at Function.Module._load (module.js:497:3)
     at Function.Module.runMain (module.js:693:10)
     at startup (bootstrap_node.js:188:16) code: 'MODULE_NOT_FOUND' }
-Debugger listening on ws://0.0.0.0:8888/cd00bfd2-2086-453d-bcd7-3c740bfab8d7
+Debugger listening on ws://0.0.0.0:8888/fc892c73-4ded-4dd5-b6e9-bcc00dcfd38c
 For help see https://nodejs.org/en/docs/inspector
 { Error: Cannot find module '/Users/diestrin/Documents/Research/fabcar/packages/server/dist/app.js'
     at Function.Module._resolveFilename (module.js:547:15)
@@ -83,7 +65,7 @@ For help see https://nodejs.org/en/docs/inspector
     at Function.Module._load (module.js:497:3)
     at Function.Module.runMain (module.js:693:10)
     at startup (bootstrap_node.js:188:16) code: 'MODULE_NOT_FOUND' }
-Debugger listening on ws://0.0.0.0:8888/967748e2-9c67-4388-9f13-475b53dd9906
+Debugger listening on ws://0.0.0.0:8888/2e362009-9b1d-4131-90dd-0884435a6ab1
 For help see https://nodejs.org/en/docs/inspector
 { Error: Cannot find module '/Users/diestrin/Documents/Research/fabcar/packages/server/dist/app.js'
     at Function.Module._resolveFilename (module.js:547:15)
@@ -96,7 +78,7 @@ For help see https://nodejs.org/en/docs/inspector
     at Function.Module._load (module.js:497:3)
     at Function.Module.runMain (module.js:693:10)
     at startup (bootstrap_node.js:188:16) code: 'MODULE_NOT_FOUND' }
-Debugger listening on ws://0.0.0.0:8888/eac272e4-421c-4863-ab8b-3d381c8a16a5
+Debugger listening on ws://0.0.0.0:8888/614d3533-5b4d-4b1b-9fdc-58345f176a6d
 For help see https://nodejs.org/en/docs/inspector
 { Error: Cannot find module '/Users/diestrin/Documents/Research/fabcar/packages/server/dist/app.js'
     at Function.Module._resolveFilename (module.js:547:15)
@@ -109,7 +91,7 @@ For help see https://nodejs.org/en/docs/inspector
     at Function.Module._load (module.js:497:3)
     at Function.Module.runMain (module.js:693:10)
     at startup (bootstrap_node.js:188:16) code: 'MODULE_NOT_FOUND' }
-Debugger listening on ws://0.0.0.0:8888/7f037b7c-029d-4be4-be05-f0ce3119a1de
+Debugger listening on ws://0.0.0.0:8888/74a71e7e-c0fa-4fda-9c06-4388b798c56b
 For help see https://nodejs.org/en/docs/inspector
 { Error: Cannot find module '/Users/diestrin/Documents/Research/fabcar/packages/server/dist/app.js'
     at Function.Module._resolveFilename (module.js:547:15)
@@ -122,19 +104,154 @@ For help see https://nodejs.org/en/docs/inspector
     at Function.Module._load (module.js:497:3)
     at Function.Module.runMain (module.js:693:10)
     at startup (bootstrap_node.js:188:16) code: 'MODULE_NOT_FOUND' }
-Debugger listening on ws://0.0.0.0:8888/fa1f3cb7-cf61-4ebe-bdf1-e3d1eec1abb0
+Debugger listening on ws://0.0.0.0:8888/0fb4fbbd-2cec-47c0-8eeb-106292c24e4d
 For help see https://nodejs.org/en/docs/inspector
-Debugger listening on ws://0.0.0.0:8888/eb3f7cf6-b762-48e1-be83-8810c4eed6c0
+{ Error: Cannot find module '/Users/diestrin/Documents/Research/fabcar/packages/server/dist/app.js'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Function.Module._load (module.js:474:25)
+    at Object.<anonymous> (/Users/diestrin/Documents/Research/fabcar/node_modules/pm2/lib/ProcessContainerFork.js:27:21)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Function.Module.runMain (module.js:693:10)
+    at startup (bootstrap_node.js:188:16) code: 'MODULE_NOT_FOUND' }
+Debugger listening on ws://0.0.0.0:8888/bb8ca34b-3f44-4f3c-b58f-85cf0b853ea7
 For help see https://nodejs.org/en/docs/inspector
-Debugger listening on ws://0.0.0.0:8888/b3649540-4f50-4b53-ad5c-7b28dd552fe1
+Debugger listening on ws://0.0.0.0:8888/80487cfc-fbbe-4c2a-b758-c467a4525803
 For help see https://nodejs.org/en/docs/inspector
-2019-06-23T17:53:57.997Z - [31merror[39m: [Remote.js]: Error: Failed to connect before the deadline URL:grpc://localhost:7051
-2019-06-23T17:53:57.998Z - [31merror[39m: [Remote.js]: Error: Failed to connect before the deadline URL:grpc://localhost:7151
-Debugger listening on ws://0.0.0.0:8888/f41922d7-ce6b-4e6c-a877-a001b29a6e4a
+Debugger listening on ws://0.0.0.0:8888/b6ad914c-b4e3-47a3-8630-d159edfa70da
 For help see https://nodejs.org/en/docs/inspector
-Debugger listening on ws://0.0.0.0:8888/d2e34c19-47a0-4265-ace5-71f6b635ebd5
+Debugger listening on ws://0.0.0.0:8888/f6aa0909-9e36-47c6-b1d4-0945163af0d1
 For help see https://nodejs.org/en/docs/inspector
-Debugger listening on ws://0.0.0.0:8888/ca6ca675-57d7-4da6-a3b4-f6dd0a7be197
+{ Error: Cannot find module '/Users/diestrin/Documents/Research/fabcar/packages/server/dist/app.js'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Function.Module._load (module.js:474:25)
+    at Object.<anonymous> (/Users/diestrin/Documents/Research/fabcar/node_modules/pm2/lib/ProcessContainerFork.js:27:21)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Function.Module.runMain (module.js:693:10)
+    at startup (bootstrap_node.js:188:16) code: 'MODULE_NOT_FOUND' }
+Debugger listening on ws://0.0.0.0:8888/719e0304-f48e-4c85-aadc-a590df41d9cd
 For help see https://nodejs.org/en/docs/inspector
-Debugger listening on ws://0.0.0.0:8888/d905b642-8178-430d-b0b3-f0ebbdc2061d
+{ Error: Cannot find module '/Users/diestrin/Documents/Research/fabcar/packages/server/dist/app.js'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Function.Module._load (module.js:474:25)
+    at Object.<anonymous> (/Users/diestrin/Documents/Research/fabcar/node_modules/pm2/lib/ProcessContainerFork.js:27:21)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Function.Module.runMain (module.js:693:10)
+    at startup (bootstrap_node.js:188:16) code: 'MODULE_NOT_FOUND' }
+Debugger listening on ws://0.0.0.0:8888/d2a90f91-f035-49ff-b882-56e746e0dce5
+For help see https://nodejs.org/en/docs/inspector
+{ Error: Cannot find module '/Users/diestrin/Documents/Research/fabcar/packages/server/dist/app.js'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Function.Module._load (module.js:474:25)
+    at Object.<anonymous> (/Users/diestrin/Documents/Research/fabcar/node_modules/pm2/lib/ProcessContainerFork.js:27:21)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Function.Module.runMain (module.js:693:10)
+    at startup (bootstrap_node.js:188:16) code: 'MODULE_NOT_FOUND' }
+Debugger listening on ws://0.0.0.0:8888/e218f7c7-a007-4519-bd74-f115fb0096c5
+For help see https://nodejs.org/en/docs/inspector
+{ Error: Cannot find module '/Users/diestrin/Documents/Research/fabcar/packages/server/dist/app.js'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Function.Module._load (module.js:474:25)
+    at Object.<anonymous> (/Users/diestrin/Documents/Research/fabcar/node_modules/pm2/lib/ProcessContainerFork.js:27:21)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Function.Module.runMain (module.js:693:10)
+    at startup (bootstrap_node.js:188:16) code: 'MODULE_NOT_FOUND' }
+Debugger listening on ws://0.0.0.0:8888/a689d831-c738-44bf-a458-681047727817
+For help see https://nodejs.org/en/docs/inspector
+{ Error: Cannot find module '/Users/diestrin/Documents/Research/fabcar/packages/server/dist/app.js'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Function.Module._load (module.js:474:25)
+    at Object.<anonymous> (/Users/diestrin/Documents/Research/fabcar/node_modules/pm2/lib/ProcessContainerFork.js:27:21)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Function.Module.runMain (module.js:693:10)
+    at startup (bootstrap_node.js:188:16) code: 'MODULE_NOT_FOUND' }
+Debugger listening on ws://0.0.0.0:8888/2d3dc8be-2da9-4fcd-bccd-82964de66f7b
+For help see https://nodejs.org/en/docs/inspector
+{ Error: Cannot find module '/Users/diestrin/Documents/Research/fabcar/packages/server/dist/app.js'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Function.Module._load (module.js:474:25)
+    at Object.<anonymous> (/Users/diestrin/Documents/Research/fabcar/node_modules/pm2/lib/ProcessContainerFork.js:27:21)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Function.Module.runMain (module.js:693:10)
+    at startup (bootstrap_node.js:188:16) code: 'MODULE_NOT_FOUND' }
+Debugger listening on ws://0.0.0.0:8888/abe75fd8-4654-40c7-8d67-3c1f9a52dfb8
+For help see https://nodejs.org/en/docs/inspector
+{ Error: Cannot find module '/Users/diestrin/Documents/Research/fabcar/packages/server/dist/app.js'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Function.Module._load (module.js:474:25)
+    at Object.<anonymous> (/Users/diestrin/Documents/Research/fabcar/node_modules/pm2/lib/ProcessContainerFork.js:27:21)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Function.Module.runMain (module.js:693:10)
+    at startup (bootstrap_node.js:188:16) code: 'MODULE_NOT_FOUND' }
+Debugger listening on ws://0.0.0.0:8888/84255efb-ed0b-4198-8ab2-454558107e71
+For help see https://nodejs.org/en/docs/inspector
+{ Error: Cannot find module '/Users/diestrin/Documents/Research/fabcar/packages/server/dist/app.js'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Function.Module._load (module.js:474:25)
+    at Object.<anonymous> (/Users/diestrin/Documents/Research/fabcar/node_modules/pm2/lib/ProcessContainerFork.js:27:21)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Function.Module.runMain (module.js:693:10)
+    at startup (bootstrap_node.js:188:16) code: 'MODULE_NOT_FOUND' }
+Debugger listening on ws://0.0.0.0:8888/f74e7e96-1a06-4b58-be85-e19c1e627ac9
+For help see https://nodejs.org/en/docs/inspector
+{ Error: Cannot find module '/Users/diestrin/Documents/Research/fabcar/packages/server/dist/app.js'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Function.Module._load (module.js:474:25)
+    at Object.<anonymous> (/Users/diestrin/Documents/Research/fabcar/node_modules/pm2/lib/ProcessContainerFork.js:27:21)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Function.Module.runMain (module.js:693:10)
+    at startup (bootstrap_node.js:188:16) code: 'MODULE_NOT_FOUND' }
+Debugger listening on ws://0.0.0.0:8888/29b76bec-4762-4423-b36e-893edbc2fa7c
+For help see https://nodejs.org/en/docs/inspector
+{ Error: Cannot find module '/Users/diestrin/Documents/Research/fabcar/packages/server/dist/app.js'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Function.Module._load (module.js:474:25)
+    at Object.<anonymous> (/Users/diestrin/Documents/Research/fabcar/node_modules/pm2/lib/ProcessContainerFork.js:27:21)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Function.Module.runMain (module.js:693:10)
+    at startup (bootstrap_node.js:188:16) code: 'MODULE_NOT_FOUND' }
+Debugger listening on ws://0.0.0.0:8888/5f76c909-4e6b-419e-ad05-fe265b61f762
 For help see https://nodejs.org/en/docs/inspector

@@ -8,6 +8,7 @@
       "out_file": "../log/access.log",
       "env": {},
       "watch": [
+        "src",
         "dist",
         "node_modules",
         ".env"

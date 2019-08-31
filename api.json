@@ -5,7 +5,7 @@
         "controller": "FabcarController"
     },
     {
-        "function":"get",
+        "function":"queryOne",
         "verb":"get",
         "controller": "FabcarController"
     },

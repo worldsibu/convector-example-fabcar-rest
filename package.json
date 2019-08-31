@@ -6,12 +6,12 @@
     "dist/*"
   ],
   "scripts": {
+    "start": "npm-run-all -p start:server start:ui",
     "install": "npm-run-all -s lerna:install",
     "build": "node ./update-paths.js",
     "env:restart": "hurl new",
     "test": "npm-run-all -s lerna:test",
     "env:clean": "hurl clean",
-    "start": "npm-run-all -p start:server start:ui",
     "start:server": "lerna run start --scope server --stream",
     "start:ui": "lerna run start --scope ui --stream",
     "cc:start": "f() { npm run cc:package -- $1 org1; npm run cc:install $1; }; f",
